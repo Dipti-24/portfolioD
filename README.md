@@ -27,5 +27,5 @@ Welcome to my personal portfolio website! This responsive, single-page site high
 Feel free to reach out via the contact form on the website or connect with me at mishradipti2402@gmail.com
 
 ##  License
-This project is licensed under the MIT License. You are free to use and modify it for your own purposes.
+This project is licensed under the [MIT License](). You are free to use and modify it for your own purposes.
 
