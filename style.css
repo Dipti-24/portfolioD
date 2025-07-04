@@ -604,3 +604,13 @@ h2::after {
 }
 
 
+.percentage-badge {
+  display: inline-block;
+  background-color: #555; /* Dark Grey */
+  color: white;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-weight: bold;
+  margin-top: 8px;
+  font-size: 14px;
+}
