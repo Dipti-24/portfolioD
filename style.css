@@ -191,14 +191,11 @@ h2::after {
   cursor: pointer;
 }
 
-/* Pulse glow animation */
 
 
 
 
 /* Projects */
-/* Custom project layout */
-/* Custom project layout */
 .custom-project-link {
   display: block;
   text-decoration: none;
@@ -251,6 +248,22 @@ h2::after {
 .project-info p {
   font-size: 0.95rem;
   margin: 2px 0;
+}
+.click-to-use {
+  font-weight: bold;
+  color: #ffffff;
+  background-color: rgba(63, 81, 181, 0.8); /* Indigo with transparency */
+  padding: 5px 12px;
+  border-radius: 20px;
+  margin-top: 8px;
+  display: inline-block;
+  font-size: 0.9rem;
+  transition: background-color 0.3s ease;
+}
+
+.click-to-use:hover {
+  background-color: rgba(255, 64, 129, 0.9); /* pink on hover */
+  cursor: pointer;
 }
 
 
@@ -436,7 +449,7 @@ h2::after {
   transform: translateY(0);
 }
 
-/* Education List Styles */
+/* Education List */
 .education-list {
   list-style: none;
   display: flex;
@@ -557,7 +570,7 @@ h2::after {
 
 
 /* Hamburger Icon */
-/* Hamburger icon default hidden */
+
 .hamburger {
   display: none;
   font-size: 1.8rem;
